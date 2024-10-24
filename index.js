@@ -1,0 +1,1 @@
+const varaible = "Hello World"
